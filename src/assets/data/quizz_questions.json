@@ -1,0 +1,126 @@
+{
+  "title": "Descubra Qual o Seu Patrono no Mundo de Harry Potter!",
+  "questions": [
+    {
+        "id": 1,
+        "question": "Qual ambiente você sente que te dá mais energia?",
+        "options": [
+            {"id": 1, "name": "Florestas densas e misteriosas", "aura": "A"},
+            {"id": 2, "name": "Montanhas tranquilas e imponentes", "aura": "B"},
+            {"id": 3, "name": "Campos abertos e ensolarados", "aura": "C"},
+            {"id": 4, "name": "Lagos serenos e profundos", "aura": "D"},
+            {"id": 5, "name": "Cavernas escuras e desconhecidas", "aura": "E"},
+            {"id": 6, "name": "Planícies vastas e livres", "aura": "F"}
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Como você lida com desafios difíceis?",
+        "options": [
+            {"id": 1, "name": "Enfrento com coragem e intensidade", "aura": "A"},
+            {"id": 2, "name": "Analiso cuidadosamente antes de agir", "aura": "B"},
+            {"id": 3, "name": "Busco manter equilíbrio e clareza", "aura": "C"},
+            {"id": 4, "name": "Aproximo-me com sabedoria e calma", "aura": "D"},
+            {"id": 5, "name": "Uso táticas inesperadas e misteriosas", "aura": "E"},
+            {"id": 6, "name": "Ajo com espontaneidade e liberdade", "aura": "F"}
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Como você prefere aprender e crescer?",
+        "options": [
+            {"id": 1, "name": "Pelo desafio e superação", "aura": "A"},
+            {"id": 2, "name": "Com observação e estratégia", "aura": "B"},
+            {"id": 3, "name": "Buscando equilíbrio e compreensão", "aura": "C"},
+            {"id": 4, "name": "Através do conhecimento profundo", "aura": "D"},
+            {"id": 5, "name": "Explorando o desconhecido", "aura": "E"},
+            {"id": 6, "name": "Com liberdade e independência", "aura": "F"}
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Qual dessas características melhor define você?",
+        "options": [
+            {"id": 1, "name": "Corajoso e intenso", "aura": "A"},
+            {"id": 2, "name": "Calmo e paciente", "aura": "B"},
+            {"id": 3, "name": "Equilibrado e harmonioso", "aura": "C"},
+            {"id": 4, "name": "Sábio e reflexivo", "aura": "D"},
+            {"id": 5, "name": "Misterioso e reservado", "aura": "E"},
+            {"id": 6, "name": "Livre e adaptável", "aura": "F"}
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Como você costuma reagir diante de um conflito?",
+        "options": [
+            {"id": 1, "name": "Ajo com força e determinação", "aura": "A"},
+            {"id": 2, "name": "Mantenho a calma e observo", "aura": "B"},
+            {"id": 3, "name": "Busco o equilíbrio e evito extremos", "aura": "C"},
+            {"id": 4, "name": "Adoto uma postura sábia e paciente", "aura": "D"},
+            {"id": 5, "name": "Respondo de forma inesperada e estratégica", "aura": "E"},
+            {"id": 6, "name": "Confio na minha liberdade e adaptabilidade", "aura": "F"}
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Qual traço você valoriza mais em si mesmo?",
+        "options": [
+            {"id": 1, "name": "Força e coragem", "aura": "A"},
+            {"id": 2, "name": "Justiça e compaixão", "aura": "B"},
+            {"id": 3, "name": "Equilíbrio e clareza", "aura": "C"},
+            {"id": 4, "name": "Conhecimento e sabedoria", "aura": "D"},
+            {"id": 5, "name": "Sigilo e intuição", "aura": "E"},
+            {"id": 6, "name": "Liberdade e independência", "aura": "F"}
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Se você pudesse escolher qualquer habilidade, qual seria?",
+        "options": [
+            {"id": 1, "name": "Força física e coragem", "aura": "A"},
+            {"id": 2, "name": "Visão estratégica e calma", "aura": "B"},
+            {"id": 3, "name": "Equilíbrio emocional e adaptabilidade", "aura": "C"},
+            {"id": 4, "name": "Conhecimento profundo", "aura": "D"},
+            {"id": 5, "name": "Intuição e segredo", "aura": "E"},
+            {"id": 6, "name": "Liberdade de explorar", "aura": "F"}
+        ]
+    }
+],
+  "results": {
+    "A": {
+      "title": "Cervo",
+      "image": "https://i.pinimg.com/736x/de/d9/29/ded9294fc2f86fbc2303df133ca533e3.jpg",
+      "description": "Este patrono representa coragem, sacrifício e a luta contra a escuridão. Ideal para alguém com um grande senso de justiça e disposição para se sacrificar pelos outros."
+    },
+    "B": {
+      "title": "Lobo",
+      "image":"https://i.pinimg.com/736x/bd/fd/b8/bdfdb8cec927d51e88145cd28cf785a8.jpg",
+      "description": "Este patrono representa independência, lealdade e um espírito de rebeldia. Pode ser associado a pessoas que são aventureiras, leais aos seus amigos e que preferem a liberdade."
+    },
+    "C": {
+      "title": "Corvo",
+      "image":"https://i.pinimg.com/736x/21/46/56/214656a57dbdad4dac711eb7458742b2.jpg",
+      "description": "Este patrono representa inteligência e mistério. Pode ser associado a pessoas com uma mente criativa e curiosa, que gostam de explorar e aprender coisas novas."
+    },
+    "D": {
+      "title": "Águia",
+      "image":"https://i.pinimg.com/736x/98/7b/3a/987b3a7311b9d2a96a38dfee2fd038d2.jpg",
+      "description": "Este patrono representa sabedoria e visão ampla. Ideal para quem é introspectivo, reflexivo e busca entender o mundo em uma perspectiva mais ampla."
+    },
+    "E": {
+      "title": "Caramelo",
+      "image":"https://i.pinimg.com/736x/8a/97/5c/8a975cb4cea33bdf6b85f7e033c0aadb.jpg",
+      "description": "Este patrono representa proteção, lealdade e carinho. Pode ser associado a pessoas que valorizam a amizade e estão dispostas a defender aqueles que amam."
+    },
+    "F": {
+      "title": "Gato",
+      "image":"https://i.pinimg.com/736x/d5/88/0f/d5880f42285ec91afa7d1cf1b7ac0a9c.jpg",
+      "description": "Este patrono representa inteligência, curiosidade e uma certa reserva. Associado a pessoas analíticas, que pensam antes de agir e preferem trabalhar sozinhas."
+    },
+    "G": {
+      "title": "Leão",
+      "image":"https://i.pinimg.com/736x/37/86/eb/3786ebd182942d4b4bff92b16e1a8465.jpg",
+      "description": "Este patrono representa força e liderança. Pode ser relacionado a pessoas que são carismáticas, confiantes e com habilidades de liderança."
+    }
+  }
+}

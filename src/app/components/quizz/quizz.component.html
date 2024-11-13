@@ -1,0 +1,33 @@
+<div class="quizz__container">
+  <div class="quizz_logo">
+    <img
+      *ngIf="!finished"
+      src="https://i.pinimg.com/originals/79/b7/37/79b7374eb0ce5b15dc4988d035bfccac.gif"
+      alt=""
+    />
+    <!-- Remover o título quando o quiz estiver finalizado -->
+    <h3 *ngIf="!finished">{{ title }}</h3>
+
+    <div class="quizz_questions_container">
+      <div *ngIf="!finished" class="quizz_questions">
+        <h3>{{ questionSelected.question }}</h3>
+      </div>
+      <div *ngIf="!finished" class="quizz_options">
+        <button
+          *ngFor="let option of questionSelected.options; let i = index"
+          (click)="playerChoose(option.aura)"
+          class="btn-option"
+        >
+          {{ option.name }}
+        </button>
+      </div>
+    </div>
+
+    <!-- Mostrar o resultado após terminar o quiz -->
+    <div *ngIf="finished" class="quizz_results">
+      <img [src]="answerSelected.image" alt="Result Image" />
+      <h1>{{ answerSelected.title }}</h1>
+      <p>{{ answerSelected.description }}</p>
+    </div>
+  </div>
+</div>
